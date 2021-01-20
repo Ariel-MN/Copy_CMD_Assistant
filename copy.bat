@@ -29,9 +29,9 @@ if not defined in_subprocess (cmd /k set in_subprocess=y ^& %0 %*) & exit )
 REM Dimencion de archivos deseada por carpeta en bytes binary, valor actual 50MB
 set maxSize=52428800
 REM Directorio de las imagenes
-set source=S:\Projects\StackOverflow-Tests\img
+set source=D:\Directorio\Proveniencia\Imagenes
 REM Directorio donde copiar los archivos
-set dest=S:\Projects\StackOverflow-Tests
+set dest=D:\Directorio\Destino
 REM Nombre de las carpetas generadas
 set folder=img_
 
