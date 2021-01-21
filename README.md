@@ -1,4 +1,4 @@
-# Copy_CMD_Assistant
+# Copy CMD Assistant
 CMD Script that helps to copy files in Windows by distributing them in different folders generated according to a specified size.
 
 ### What does?
